@@ -1,5 +1,7 @@
-kaggle competition
-jane street market prediction
+# kaggle competition
 
-my notebooks related to the competition are available here in this repository
-for dataset and its usage lisence, please visit kaggle.com/c/jane-street-market-prediction
+## jane street market prediction
+
+### notebooks on data analysis, ML interpretability, feature engineering, model training and model inference
+
+### for dataset and its usage license, please visit kaggle.com/c/jane-street-market-prediction
